@@ -70,7 +70,7 @@ I enjoy working across the stack — from **backend architecture and APIs** to *
 
 ## 🚀 Featured Projects
 
-### 🏭 NxView — Industrial Tank Supervision
+### 🏭 O-Tech GaugeCore™ — Industrial Tank Supervision
 
 A desktop application designed for **real-time industrial tank monitoring and supervision**.
 
